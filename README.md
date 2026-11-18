@@ -2,7 +2,8 @@
 
 A line-following and maze-solving robot. It follows a black line, takes 90° turns, handles crosses and T-junctions, U-turns at dead ends, **learns a maze**, and then runs the **shortest path**.
 
-Original sketch by **Rifat Ahmmed**. PlatformIO port + 8-sensor version by **Tahsan Masum Fahim**.
+<img width="1600" height="902" alt="bee17d1c-a034-49f1-a7bf-3950b31885d5" src="https://github.com/user-attachments/assets/1877a8d5-13c6-4dcd-a0c0-1d82c701ac6e" />
+
 
 > **Goal of this README:** if you have never built a robot before, you should still be able to copy this one: buy the parts, wire them, upload the code, and run it.
 
