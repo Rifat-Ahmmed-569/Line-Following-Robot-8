@@ -135,6 +135,7 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
 This is the circuit diagram for each sensor:
 ***
 <img width="1342" height="510" alt="image" src="https://github.com/user-attachments/assets/31c9df06-c7a2-4f1f-a929-85e6d20176a7" />
+
 ***
 
 ```
