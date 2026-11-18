@@ -45,6 +45,8 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
 | 12 | Jumper wires, header pins, perfboard | — | |
 | 13 | HC-05 Bluetooth module | 1 | **Optional**, only for Bluetooth control mode |
 | 14 | Mini-USB cable | 1 | For uploading code to the Nano |
+| 15 | TCRT5000 | IR sensor |
+| 16 | 220ohm and 4.7k ohm resistor | For ir sensors |
 
 > ⚠️ The TB6612FNG motor supply (VM) is limited to **13.5 V max**. A 2S (7.4 V, 8.4 V when full) battery is the safe choice. 3S also works but is close to the limit.
 
