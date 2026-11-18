@@ -133,9 +133,8 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
 ### 4.3 Sensor array (front view, looking from the back of the robot)
 
 This is the circuit diagram for each sensor:
-
-<img width="1285" height="596" alt="image" src="https://github.com/user-attachments/assets/9c10534e-0e15-4342-9dec-8b27310e1fb3" />
-
+<img width="1342" height="510" alt="image" src="https://github.com/user-attachments/assets/31c9df06-c7a2-4f1f-a929-85e6d20176a7" />
+***
 
 ```
         ROBOT FRONT  ↑  (direction of travel)
