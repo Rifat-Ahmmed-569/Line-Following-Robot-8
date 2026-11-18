@@ -434,8 +434,4 @@ src/servo.cpp           gripper hooks (empty, add your servo code)
 
 ---
 
-## 14. Credits
-- **Original code:** Rifat Ahmmed
-- **PlatformIO port, 8-sensor remap, bug fixes:** Tahsan Masum Fahim, [GitHub](https://github.com/tahsanmasum) · [Portfolio](https://tahsanmasum.vercel.app) · [LinkedIn](https://linkedin.com/in/tahsanmasum)
-
 If you build one, star ⭐ the repo and share a video!
