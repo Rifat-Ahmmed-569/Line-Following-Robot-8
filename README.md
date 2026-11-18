@@ -147,12 +147,18 @@ GND ◄───┤ GND           │
 ```
         ROBOT FRONT  ↑  (direction of travel)
 
+
+
+<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/fa2cc5f4-0dd9-4831-bb1a-98dc2f170716" />
+
+
    LEFT                                     RIGHT
    ┌────┬────┬────┬────┬────┬────┬────┬────┐
    │ A7 │ A6 │ A5 │ A4 │ A3 │ A2 │ A1 │ A0 │
    └────┴────┴────┴────┴────┴────┴────┴────┘
     s[7] s[6] s[5] s[4] s[3] s[2] s[1] s[0]
    outer          centre centre          outer
+
 ```
 
 - **Default: A0 = RIGHTMOST sensor, A7 = LEFTMOST sensor.**
