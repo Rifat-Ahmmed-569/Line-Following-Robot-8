@@ -112,20 +112,8 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
 
 ### 4.2 TB6612FNG motor driver
 
-```
-            TB6612FNG
-        ┌───────────────┐
-  VM ◄──┤ VM       PWMA ├◄── D3
- 5V ◄───┤ VCC      AIN2 ├◄── D4
-GND ◄───┤ GND      AIN1 ├◄── D2
-        │          STBY ├◄── 5V   (must be HIGH or motors won't move!)
-LEFT  ◄─┤ AO1      BIN1 ├◄── D7
-MOTOR ◄─┤ AO2      BIN2 ├◄── D5
-RIGHT ◄─┤ BO2      PWMB ├◄── D6
-MOTOR ◄─┤ BO1       GND ├──► GND
-GND ◄───┤ GND           │
-        └───────────────┘
-```
+<img width="628" height="367" alt="4f061709ab0175bec73829e493754e4b83639a31" src="https://github.com/user-attachments/assets/81093475-9438-45a0-a3f9-ada94a6176ce" />
+
 
 | TB6612FNG pin | Connect to | Purpose |
 |---|---|---|
