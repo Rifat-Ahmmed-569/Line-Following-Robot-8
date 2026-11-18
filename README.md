@@ -148,10 +148,6 @@ GND ◄───┤ GND           │
         ROBOT FRONT  ↑  (direction of travel)
 
 
-
-<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/fa2cc5f4-0dd9-4831-bb1a-98dc2f170716" />
-
-
    LEFT                                     RIGHT
    ┌────┬────┬────┬────┬────┬────┬────┬────┐
    │ A7 │ A6 │ A5 │ A4 │ A3 │ A2 │ A1 │ A0 │
@@ -160,6 +156,9 @@ GND ◄───┤ GND           │
    outer          centre centre          outer
 
 ```
+
+<img width="1600" height="902" alt="ec20f666-928f-4a72-a2e4-c38a6448e84b" src="https://github.com/user-attachments/assets/5fa6ca57-3969-4e2e-9330-1c827b3ca0cf" />
+
 
 - **Default: A0 = RIGHTMOST sensor, A7 = LEFTMOST sensor.**
 - If your array is wired the other way round (A0 on the left), you do **not** need to rewire. Just set this in `include/config.h`:
