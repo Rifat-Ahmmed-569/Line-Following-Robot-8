@@ -15,18 +15,18 @@ constexpr uint8_t right_motor_speed    = 6;   // PWM
 
 // ---------------- UI ----------------
 constexpr uint8_t light = 13;   // status LED
-constexpr uint8_t sw    = 12;   // mode button (INPUT_PULLUP, active LOW)
+constexpr uint8_t sw    = 12;   // mode button (INPUT_PULLUP, active LOW) ?? Switch 
 
 // ---------------- Speed coefficients ----------------// ---------------- Speed coefficients ----------------
-constexpr int spl = 10;   // left motor speed coefficient  (old alt: 21)
-constexpr int spr = 10;   // right motor speed coefficient (old alt: 21)
+constexpr int spl = 12;   // left motor speed coefficient  (old alt: 21)
+constexpr int spr = 12;   // right motor speed coefficient (old alt: 21)
 constexpr int CAL_SPEED = 120;   // calibration spin PWM (was 50)
 
 // ---------------- Timings (ms) ----------------
-constexpr unsigned long node_delay   = 29;
+constexpr unsigned long node_delay   = 33;
 constexpr unsigned long stop_timer   = 600;
 constexpr unsigned long u_turn_delay = 40;
-constexpr unsigned long turn_brake   = 17;
+constexpr unsigned long turn_brake   = 14;
 constexpr unsigned long brake_time   = 20;   // old alt: 130
 constexpr unsigned long Ubrake_time  = 1;
 

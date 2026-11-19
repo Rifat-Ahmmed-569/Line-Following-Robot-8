@@ -6,7 +6,7 @@
 #include "globals.h"
 
 // ---------------- Global state ----------------
-char side  = 'r';
+char side  = 'l';  // left or right side of the line (for line following) - Feff hand rule or Right hand rule?
 char flag  = 's';
 char cross = 's';
 int  pos   = 0;
@@ -60,7 +60,7 @@ void loop() {
   int r = button_read();
   if      (r == 1)  line_follow();
   else if (r == 2)  cal();
-  else if (r == 3)  motor(10 * spl, 10 * spr);
+  else if (r == 3)  motor(10 * spl, 10 * spr); // Straight Line Motor Test !!!!! SPL = Left Motor Speed SPR = Right Motor Speed
   else if (r == 4)  digital_reading();
   else if (r == 5)  maze_solving(1);
   else if (r == 6)  analog_reading();
