@@ -114,12 +114,9 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
    Battery (−) ───────────────────────────────────────────► COMMON GND
 ```
 
-<p align="center">
-  <a href="Schematic_LFR-schemetics_2026-11-19.pdf">
-    <img src="Schematic_IR-SENSOR-1_2026-11-19.png" width="750" alt="Line Following Robot Circuit Schematic">
-  </a>
-</p>
+## Circuit Schematics
 
+[View Full Circuit Schematic (PDF)](Schematic_LFR-schemetics_2026-11-19.pdf)
 ### 4.2 TB6612FNG motor driver
 
 <img width="628" height="367" alt="4f061709ab0175bec73829e493754e4b83639a31" src="https://github.com/user-attachments/assets/81093475-9438-45a0-a3f9-ada94a6176ce" />
