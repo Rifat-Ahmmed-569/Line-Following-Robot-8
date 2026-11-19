@@ -441,4 +441,19 @@ src/servo.cpp           gripper hooks (empty, add your servo code)
 
 ---
 
+## Project Demonstration
+
+
+## Video Demonstration
+
+[![Line Following Robot Demonstration](https://img.youtube.com/vi/oyRrVLPR2Yk/maxresdefault.jpg)](https://youtube.com/shorts/oyRrVLPR2Yk)
+
+*Click the thumbnail to watch the robot in action on YouTube.*
+
+
+<p align="center">
+  <b>▶ Watch the Line Following Robot in Action on YouTube</b>
+</p>
+
+---
 If you build one, star ⭐ the repo and share a video!
