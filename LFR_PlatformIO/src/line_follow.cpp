@@ -22,7 +22,7 @@ void line_follow() {
         while (sum == 0) {
           reading();
           if (millis() - m2 > u_turn_delay) {
-            Ubrake(); digitalWrite(light, HIGH);
+            Ubrake(); // digitalWrite(light, HIGH);
             if (side == 'l') motor(-9 * spl, 9 * spr); else motor(9 * spl, -9 * spr);
             while (!center_on()) reading();
             pos = 0;
