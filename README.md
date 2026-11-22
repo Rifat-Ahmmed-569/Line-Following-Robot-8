@@ -34,22 +34,25 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
 |---|---|---|---|
 | 1 | **Arduino Nano** (ATmega328P) | 1 | Genuine or CH340 clone both work |
 | 2 | **TB6612FNG** dual motor driver | 1 | Small, efficient, up to ~1.2 A per motor |
-| 3 | **8-channel analog IR sensor array** | 1 | Must have **analog** outputs (e.g. QTR-8A style or 8× TCRT5000 board) |
-| 4 | **N20 micro gear motors** + brackets | 2 | 6 V, roughly 300–1000 RPM |
-| 5 | Wheels for N20 (≈ 30–45 mm) | 2 | |
+| 3 | **8-channel analog IR sensor array** | 1 | Must have **analog** outputs (e.g. QTR-8A style or 8× TCRT5000 board) 16* |
+| 4 | **16GA 600-1000rpm gear motors** + brackets | 2 | 6 V, roughly 300–1000 RPM |
+| 5 | Wheels for N20 (≈ 30–45 mm) or 3D printed | 2 | |
 | 6 | Caster ball / ball transfer wheel | 1 | Front or rear support |
-| 7 | **2S Li-ion / LiPo battery (7.4 V)** | 1 | Example: 2× 18650 in a holder, or a small 2S LiPo |
+| 7 | **2S/3S Li-ion / LiPo battery (7.4 V)/(11.5)** | 1 | Example: 2× 18650 in a holder, or a small 2/3S LiPo |
 | 8 | Power switch | 1 | Between battery + and the robot |
-| 9 | Push button (tactile) | 1 | Mode selection |
+| 9 | Push button (tactile) | 2 | Mode selection |
 | 10 | LED + 220 Ω resistor | 1 | Status light (optional; the Nano's onboard LED on D13 also works) |
 | 11 | Chassis | 1 | Acrylic / PCB / 3D printed, anything flat and light |
-| 12 | Jumper wires, header pins, perfboard | — | |
+| 12 | Jumper wires, header pins, perfboard | — | | Silicon Wires
 | 13 | HC-05 Bluetooth module | 1 | **Optional**, only for Bluetooth control mode |
 | 14 | Mini-USB cable | 1 | For uploading code to the Nano |
-| 15 | TCRT5000 | IR sensor |
-| 16 | 220ohm and 4.7k ohm resistor | For ir sensors |
-| 17 |7805V | Voltage Droping | Converting 12v-7v to constant 5/4.99v |
-| 18 | XL6009 | Step-up Boost DC-DC Converter Module |
+| 15 | 220ohm and 4.7k ohm resistor | For ir sensors | 16+16
+| 16 |7805V | Voltage Droping | Converting 12v-7v to constant 5/4.99v | 2 with 100uf Capasitor
+| 17 | XL6009 | Step-up Boost DC-DC Converter Module | If you are using 2cell lipo battery
+| 18 | Dot PCB | 25*25 Cm
+| 19 | Male and Female Headers | For Dot PCB
+| 20 | Soldering Lead 
+| 21 | Glue Stick & Super Glue | 
 
 ---
 <img width="1600" height="902" alt="bee17d1c-a034-49f1-a7bf-3950b31885d5" src="https://github.com/user-attachments/assets/1877a8d5-13c6-4dcd-a0c0-1d82c701ac6e" />
