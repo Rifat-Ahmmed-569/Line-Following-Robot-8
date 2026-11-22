@@ -54,6 +54,7 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
 | 20 | Soldering Lead 
 | 21 | Glue Stick & Super Glue | 
 | 22 | Crickets Bats Handle Grip | For using on wheels for better grip
+| 23 | Some nut and bolts
 
 ---
 <img width="1600" height="902" alt="bee17d1c-a034-49f1-a7bf-3950b31885d5" src="https://github.com/user-attachments/assets/1877a8d5-13c6-4dcd-a0c0-1d82c701ac6e" />
