@@ -2,6 +2,7 @@
 
 A line-following and maze-solving robot. It follows a black line, takes 90° turns, handles crosses and T-junctions, U-turns at dead ends, **learns a maze**, and then runs the **shortest path**.
 
+<img width="1280" height="1280" alt="564a02a5-09f6-4da1-9fe6-97b83032c3fe" src="https://github.com/user-attachments/assets/d63915dd-572f-4d01-8dfa-5d8d4b30e948" />
 
 
 
@@ -445,19 +446,27 @@ src/servo.cpp           gripper hooks (empty, add your servo code)
 
 ---
 
+
 ## Project Demonstration
 
+### Video Demonstration
 
-## Video Demonstration
+**1. First Test on the National Robotics Championships LFR Track**
 
-[![Line Following Robot Demonstration](https://img.youtube.com/vi/oyRrVLPR2Yk/maxresdefault.jpg)](https://youtube.com/shorts/oyRrVLPR2Yk)
+[![Line Following Robot – First Test](https://img.youtube.com/vi/oyRrVLPR2Yk/maxresdefault.jpg)](https://youtube.com/shorts/oyRrVLPR2Yk)
 
-*Click the thumbnail to watch the robot in action on YouTube.*
+*Click the thumbnail to watch the robot's first test on YouTube.*
 
+**2. Robot Performance on the Competition Track**
+
+[![Line Following Robot – Competition Track](https://img.youtube.com/vi/cMooywVKILs/maxresdefault.jpg)](https://youtube.com/shorts/cMooywVKILs)
+
+*Click the thumbnail to watch the robot navigate the competition track.*
 
 <p align="center">
-  <b>▶ Watch the Line Following Robot in Action on YouTube</b>
+  <b>▶ Watch the Line Following Robot in Action</b>
 </p>
+
 
 ---
 If you build one, star ⭐ the repo and share a video!
