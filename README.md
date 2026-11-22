@@ -468,5 +468,17 @@ src/servo.cpp           gripper hooks (empty, add your servo code)
 </p>
 
 
+---## 🤝 Need Help Building a Similar Project?
+
+If you're interested in building a similar robotics project or need guidance with hardware, electronics, firmware, or implementation, feel free to contact me.
+
+I'm happy to share my experience and help fellow robotics enthusiasts bring their ideas to life.
+
+### Contact Me
+
+- **WhatsApp:** [+880 1610-883579](https://wa.me/8801610883579)
+- **Email:** [ra7260352@gmail.com](mailto:ra7260352@gmail.com)
+- **Facebook:** [Rifat Ahmmed](https://www.facebook.com/rifat.ahmmed.1460)
+
 ---
 If you build one, star ⭐ the repo and share a video!
