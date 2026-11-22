@@ -2,7 +2,7 @@
 
 A line-following and maze-solving robot. It follows a black line, takes 90° turns, handles crosses and T-junctions, U-turns at dead ends, **learns a maze**, and then runs the **shortest path**.
 
-<img width="1600" height="902" alt="bee17d1c-a034-49f1-a7bf-3950b31885d5" src="https://github.com/user-attachments/assets/1877a8d5-13c6-4dcd-a0c0-1d82c701ac6e" />
+
 
 
 > **Goal of this README:** if you have never built a robot before, you should still be able to copy this one: buy the parts, wire them, upload the code, and run it.
@@ -49,6 +49,10 @@ A line-following and maze-solving robot. It follows a black line, takes 90° tur
 | 16 | 220ohm and 4.7k ohm resistor | For ir sensors |
 | 17 |7805V | Voltage Droping | Converting 12v-7v to constant 5/4.99v |
 | 18 | XL6009 | Step-up Boost DC-DC Converter Module |
+
+---
+<img width="1600" height="902" alt="bee17d1c-a034-49f1-a7bf-3950b31885d5" src="https://github.com/user-attachments/assets/1877a8d5-13c6-4dcd-a0c0-1d82c701ac6e" />
+---
 
 > ⚠️ The TB6612FNG motor supply (VM) is limited to **13.5 V max**. A 2S (7.4 V, 8.4 V when full) battery is the safe choice. 3S also works but is close to the limit.
 
